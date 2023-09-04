@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**jhonnynobrega/jhonnynobrega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👾 Jhonny Nobrega 👾
 
-Here are some ideas to get you started:
+Olá! eu sou o Jhonny, e bem vindo ao meu perfil do GitHub, fique a vontade! 😎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Conecte-se comigo;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5858FA?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/jhonny-nobrega-604842245/)
+[![Instagram](https://img.shields.io/badge/Instagram-5858FA?style=for-the-badge&logo=instagram&logoColor=000)](https://www.instagram.com/eu_sou_o_jhonny/)
+
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonnynobrega&theme=transparent&bg_color=000&border_color=5858FA&show_icons=true&icon_color=5858FA&title_color=5858FAtext_color=58FAF4)
